@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "134931628197",
+    "project_id": "ticketsapp-d7dee",
+    "storage_bucket": "ticketsapp-d7dee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134931628197:android:371a4829142b228580cd4c",
+        "android_client_info": {
+          "package_name": "com.crunchyapps.ticketsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134931628197-tkpjepmavs4pgli8orr9opo355i1lse6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrTgeFdID6fWidW-iutk34MNzQ4-riS5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134931628197-tkpjepmavs4pgli8orr9opo355i1lse6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
