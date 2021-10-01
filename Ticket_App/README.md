@@ -32,6 +32,6 @@ Tickets App
 
 
 **1.3 For Android ** \
- Open Android folder in android studio and wait for build to download all dependencies
+ Open Android folder in Android Studio and wait for build to download all dependencies.
 
 **2. Run**
